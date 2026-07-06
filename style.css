@@ -1,1 +1,1 @@
-
+body{font-family:Arial;background:#ffddee;display:flex;justify-content:center;padding:30px}.card{background:#fff;padding:20px;border-radius:20px;max-width:600px;width:100%;box-shadow:0 5px 20px #0002}h1{text-align:center;color:#e91e63}input{width:70%;padding:10px;border-radius:10px;border:1px solid pink}button{background:#ff69b4;color:#fff;border:none;border-radius:10px;padding:10px;margin:4px;cursor:pointer}li{display:flex;justify-content:space-between;padding:8px;background:#fff0f6;margin:8px 0;border-radius:10px}.done{text-decoration:line-through;color:#888}
