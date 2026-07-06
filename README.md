@@ -1,2 +1,17 @@
 # Проект To-do list
-<img width="623" height="429" alt="image" src="https://github.com/user-attachments/assets/d0ac261d-1a8b-4072-8a1e-1e5434f57bdb" />
+[<img width="623" height="429" alt="image" src="https://github.com/user-attachments/assets/d0ac261d-1a8b-4072-8a1e-1e5434f57bdb" />](http://127.0.0.1:5500/index.html)
+В проекте реализовано :
+1.Модуль для добавления задач.
+2.Возможность правления задачами: удаление, изменение статуса и добавление задач.
+
+Запуск проекта
+Локально:
+1.Перейдите в папку, в которой будет храниться проект
+cd C:\ПУТЬ
+2.Загрузитe проект
+
+3.Перейдите в папку проекта
+cd C:\ПУТЬ\To-do_List
+4.Запустите проект
+start index.html
+Запуск проекта с помощью GitHub Pages:
