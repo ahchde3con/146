@@ -1,4 +1,4 @@
-# Проект To do list
+# Проект Todo list
 [<img width="623" height="429" alt="image" src="https://github.com/user-attachments/assets/d0ac261d-1a8b-4072-8a1e-1e5434f57bdb" />](http://127.0.0.1:5500/index.html)
 
 
